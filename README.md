@@ -13,13 +13,13 @@
 ### 🚀 About Me
 - 🔭 I have recently completed:  
   - [Job Board Website](https://github.com/rahul-11105/Job-Board) – Platform where employers can post jobs & seekers can apply  
-  - [URL Shortener](https://github.com/rahul-11105/URL-Shortener) – Generate short links with click tracking  
+  - [URL Shortener](https://github.com/rahul-11105/URL_shortner_project) – Generate short links with click tracking  
   - [NewsApp](https://github.com/rahul-11105/NewsApp) – Live news app built with React.js  
 
 - 👯 I’m looking to collaborate on **Open Source MERN Stack Projects**  
 - 🤝 I’m looking for help with **Advanced System Design & Cloud Deployment**  
 - 🌱 I’m currently learning **Next.js | Cloud (AWS, Docker) | System Design**  
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Java, DSA**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, C, Java, JDBC, DSA**  
 - 📫 Reach me at **rahullokhande11105@gmail.com**  
 - 👨‍💻 Portfolio: [portfolio2-s6er.vercel.app](https://portfolio2-s6er.vercel.app/)  
 - 📄 [My Resume](https://drive.google.com/file/d/1PJbs0DHgaKp5YCfAcEikkahzwE8Ows2o/view?usp=drivesdk)  

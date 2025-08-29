@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🔭 I have recently completed:  
-  - [Job Board Website](https://github.com/rahul-11105/Job-Board) – Platform where employers can post jobs & seekers can apply  
+  - [Job Board Website](https://github.com/rahul-11105/CODSOFT) – Platform where employers can post jobs & seekers can apply  
   - [URL Shortener](https://github.com/rahul-11105/URL_shortner_project) – Generate short links with click tracking  
   - [NewsApp](https://github.com/rahul-11105/NewsApp) – Live news app built with React.js  
 

@@ -22,7 +22,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, C, Java, JDBC, DSA**  
 - 📫 Reach me at **rahullokhande11105@gmail.com**  
 - 👨‍💻 Portfolio: [portfolio2-s6er.vercel.app](https://portfolio2-s6er.vercel.app/)  
-- 📄 [My Resume](https://drive.google.com/file/d/1PJbs0DHgaKp5YCfAcEikkahzwE8Ows2o/view?usp=drivesdk)  
+- 📄 [My Resume]([https://drive.google.com/file/d/1PJbs0DHgaKp5YCfAcEikkahzwE8Ows2o/view?usp=drivesdk](https://drive.google.com/file/d/1B1mUq7zZdhSYuIGbCZRV_YgsgTqZ2yGR/view?usp=sharing))  
 - ⚡ Fun fact: **I’ve solved 200+ problems on LeetCode & love cracking coding puzzles 🧩**  
 
 ---

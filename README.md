@@ -23,7 +23,7 @@
 - 📫 Reach me at **rahullokhande11105@gmail.com**  
 - 👨‍💻 Portfolio: [portfolio2-s6er.vercel.app](https://portfolio2-s6er.vercel.app/)  
 - 📄 [My Resume](https://drive.google.com/file/d/1PJbs0DHgaKp5YCfAcEikkahzwE8Ows2o/view?usp=drivesdk)  
-- ⚡ Fun fact: **I’ve solved 125+ problems on LeetCode & love cracking coding puzzles 🧩**  
+- ⚡ Fun fact: **I’ve solved 200+ problems on LeetCode & love cracking coding puzzles 🧩**  
 
 ---
 

@@ -26,13 +26,13 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [Smart AI Voice Assistant](https://github.com/rahul-11105) | MERN, Gemini API (GenAI/LLM), JWT | Full-stack voice assistant with LLM-powered conversational responses |
+| [Smart AI Voice Assistant](https://github.com/rahul-11105/AI-Project) | MERN, Gemini API (GenAI/LLM), JWT | Full-stack voice assistant with LLM-powered conversational responses |
 | [Job Board](https://github.com/rahul-11105/CODSOFT) | React.js, Node.js, Express.js, MongoDB | Job portal with JWT auth & role-based access for candidates/employers |
 | [URL Shortener](https://github.com/rahul-11105/URL_shortner_project) | React.js, Node.js, Express.js, MongoDB | Link shortener with redirection & click-tracking analytics |
 | Authentication System | Node.js, Express.js, MongoDB, JWT | Reusable JWT auth system with protected route middleware |
-| [News App](https://github.com/rahul-11105/NewsApp) | React.js | Responsive news reader with category-based filtering |
+| [News App](https://github.com/rahul-11105/newsapp) | React.js | Responsive news reader with category-based filtering |
 
-📄 Resume: [View Resume](https://drive.google.com/file/d/1B1mUq7zZdhSYuIGbCZRV_YgsgTqZ2yGR/view?usp=sharing)  
+📄 Resume: [View Resume](https://drive.google.com/file/d/1IbAVyf6Zq72s7fAq4nlMPVve2wfPKJ5H/view?usp=sharing)  
 👨‍💻 Portfolio: [portfolio2-rho-lake.vercel.app](https://portfolio2-rho-lake.vercel.app/)
 
 ---

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Lokhande</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
----
+<h3 align="center">Full-Stack Developer (MERN & Java) | Building AI-Powered Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-11105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-11105" /> 
@@ -11,44 +9,59 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I have recently completed:  
-  - [Job Board Website](https://github.com/rahul-11105/CODSOFT) – Platform where employers can post jobs & seekers can apply  
-  - [URL Shortener](https://github.com/rahul-11105/URL_shortner_project) – Generate short links with click tracking  
-  - [NewsApp](https://github.com/rahul-11105/NewsApp) – Live news app built with React.js  
 
-- 👯 I’m looking to collaborate on **Open Source MERN Stack Projects**  
-- 🤝 I’m looking for help with **Advanced System Design & Cloud Deployment**  
-- 🌱 I’m currently learning **Next.js | Cloud (AWS, Docker) | System Design**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, C, Java, JDBC, DSA**  
-- 📫 Reach me at **rahullokhande11105@gmail.com**  
-- 👨‍💻 Portfolio: [portfolio2-s6er.vercel.app](https://portfolio2-s6er.vercel.app/)  
-- 📄 [My Resume]([https://drive.google.com/file/d/1PJbs0DHgaKp5YCfAcEikkahzwE8Ows2o/view?usp=drivesdk](https://drive.google.com/file/d/1B1mUq7zZdhSYuIGbCZRV_YgsgTqZ2yGR/view?usp=sharing))  
-- ⚡ Fun fact: **I’ve solved 200+ problems on LeetCode & love cracking coding puzzles 🧩**  
+- 🎓 B.E. Computer Engineering (2026) — CGPA 9.05/10
+- 🎯 Currently looking for: **Full-Stack Developer / Software Engineer / Java Developer** roles
+- 💼 Ex Web Developer Intern @ Codesoft — built a full-stack Job Board with JWT auth & RBAC
+- 🧩 Solved **240+ DSA problems** on LeetCode
+- 🌱 Currently learning: **Next.js | AWS & Docker | System Design | GenAI & RAG**
+- 👯 Open to collaborating on **Open Source MERN Stack projects**
+- 🤝 Looking for guidance on **Advanced System Design & Cloud Deployment**
+- 💬 Ask me about: **React.js, Node.js, Express.js, MongoDB, MySQL, Java, Spring Boot, JWT Auth, REST APIs, DSA**
+- 📫 Reach me at: **rahullokhande11105@gmail.com**
+
+---
+
+### 🔭 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Smart AI Voice Assistant](https://github.com/rahul-11105) | MERN, Gemini API (GenAI/LLM), JWT | Full-stack voice assistant with LLM-powered conversational responses |
+| [Job Board](https://github.com/rahul-11105/CODSOFT) | React.js, Node.js, Express.js, MongoDB | Job portal with JWT auth & role-based access for candidates/employers |
+| [URL Shortener](https://github.com/rahul-11105/URL_shortner_project) | React.js, Node.js, Express.js, MongoDB | Link shortener with redirection & click-tracking analytics |
+| Authentication System | Node.js, Express.js, MongoDB, JWT | Reusable JWT auth system with protected route middleware |
+| [News App](https://github.com/rahul-11105/NewsApp) | React.js | Responsive news reader with category-based filtering |
+
+📄 Resume: [View Resume](https://drive.google.com/file/d/1B1mUq7zZdhSYuIGbCZRV_YgsgTqZ2yGR/view?usp=sharing)  
+👨‍💻 Portfolio: [portfolio2-rho-lake.vercel.app](https://portfolio2-rho-lake.vercel.app/)
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/rahullokha90999" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rahul-lokhande" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rahul-lokhande-a45129306/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Rahul_lokhande/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://stackoverflow.com/users/rahul-lokhande" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://twitter.com/rahullokha90999" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/rahul_l_11105" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/rahul_lokhande" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,redux,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,redux,nodejs,express,mongodb,mysql,spring,git,github,postman,linux,figma" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-11105&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-11105&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-11105&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-11105&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 <p align="center">
@@ -58,6 +71,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=rahul-11105&theme=onedark&row=1&column=6" alt="trophies"/>
 </p>
@@ -65,6 +79,7 @@
 ---
 
 ### 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-11105&theme=react-dark&hide_border=true" alt="graph" />
 </p>
